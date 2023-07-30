@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-eranda&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-eranda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@isuru__eranda" target="blank"><img src="https://img.shields.io/twitter/follow/@isuru__eranda?logo=twitter&style=for-the-badge" alt="@isuru__eranda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@isuru__eranda" target="blank"><img src="https://img.shields.io/twitter/follow/@isuru__eranda?logo=twitter&style=for-the-badge" alt="isuru__eranda" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering.**
 

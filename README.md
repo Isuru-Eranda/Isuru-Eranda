@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@isuru__eranda" target="blank"><img src="https://img.shields.io/twitter/follow/isuru__eranda?logo=twitter&style=for-the-badge" alt="@isuru__eranda" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering.**
+- 🌱 I’m currently learning **Software Engineering .**
 
-- 💬 Ask me about **Anything You want to know.**
+- 💬 Ask me about **Anything You want to know .**
 
 - 📫 How to reach me **isurueranda01@gmail.com**
 

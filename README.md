@@ -34,3 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuru-eranda&" alt="isuru-eranda" /></p>
 
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Isuru-Eranda/Isuru-Eranda)

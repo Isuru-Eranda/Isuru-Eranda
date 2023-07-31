@@ -36,6 +36,6 @@
 
  </div>
  
-<!-- Status -->
+ <hr/>
 
 ![GitHub Last commit](https://img.shields.io/github/last-commit/Isuru-Eranda/Isuru-Eranda)

@@ -1,7 +1,13 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Isuru Eranda</h1>
 <h3 align="center">A Undergraduate in NSBM Green University 🧑‍💻</h3>
 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=40F718&width=435&lines=A+Undergraduate+in+NSBM+Green+University+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
+</div>
+
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-eranda&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-eranda" /> </p>
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

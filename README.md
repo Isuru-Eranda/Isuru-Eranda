@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Eranda</h1>
-# <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me, Lakshan Rukantha</p>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Isuru Eranda</h1>
 <h3 align="center">A Undergraduate in NSBM Green University 🧑‍💻</h3>
 
 

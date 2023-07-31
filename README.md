@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Isuru Eranda</h1>
 <h3 align="center">A Undergraduate in NSBM Green University 🧑‍💻</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-eranda&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-eranda" /> </p>

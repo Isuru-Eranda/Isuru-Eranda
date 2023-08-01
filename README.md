@@ -36,7 +36,9 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=isuru-eranda&show_icons=true&locale=en" alt="isuru-eranda" /></p>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru-eranda&show_icons=true&locale=en&layout=compact" alt="isuru-eranda" /></p>
 
+
  </div>
+
  
  <hr/>
 

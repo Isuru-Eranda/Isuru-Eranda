@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="28">, I'm Isuru Eranda</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Isuru Eranda</h1>
 <h3 align="center">A Undergraduate in NSBM Green University 🧑‍💻</h3>
 
  

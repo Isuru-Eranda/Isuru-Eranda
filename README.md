@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isuru Eranda.</h1>
+<h1 align="center">Hi 👋, I'm Isuru Eranda</h1>
 <h3 align="center">A Undergraduate in NSBM Green University. 🧑‍💻</h3>
 
  

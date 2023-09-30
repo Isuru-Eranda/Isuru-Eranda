@@ -38,6 +38,9 @@
  </div>
 
  
- <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-eranda&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-eranda" /> </p>
+<hr/>
+<!-------- Status -------->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-eranda&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-eranda" /> 
 ![GitHub Last commit](https://img.shields.io/github/last-commit/Isuru-Eranda/Isuru-Eranda)
+</p>

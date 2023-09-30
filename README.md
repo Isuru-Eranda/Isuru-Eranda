@@ -29,10 +29,8 @@
 
 <hr/>
 
-## 📊 GitHub Stats
-
 <div align="center">
-
+📊 GitHub Stats
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=isuru-eranda&" alt="isuru-eranda" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=isuru-eranda&show_icons=true&locale=en" alt="isuru-eranda" /></p>

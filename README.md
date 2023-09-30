@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isuru Eranda</h1>
 <h3 align="center">A Undergraduate in NSBM Green University. 🧑‍💻</h3>
 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-eranda&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-eranda" /> </p>
-
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/@isuru__eranda" target="blank"><img src="https://img.shields.io/twitter/follow/isuru_eranda?logo=twitter&style=for-the-badge" alt="@isuru__eranda" /></a> </p>
@@ -34,6 +31,7 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=isuru-eranda&" alt="isuru-eranda" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=isuru-eranda&show_icons=true&locale=en" alt="isuru-eranda" /></p>
+
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru-eranda&show_icons=true&locale=en&layout=compact" alt="isuru-eranda" /></p>
 
 
@@ -41,5 +39,5 @@
 
  
  <hr/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-eranda&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-eranda" /> </p>
 ![GitHub Last commit](https://img.shields.io/github/last-commit/Isuru-Eranda/Isuru-Eranda)

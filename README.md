@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/@isuru__eranda" target="blank"><img src="https://img.shields.io/twitter/follow/isuru_eranda?logo=twitter&style=for-the-badge" alt="@isuru__eranda" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/isuru__eranda/" target="blank"><img src="https://img.shields.io/twitter/follow/isuru_eranda?logo=twitter&style=for-the-badge" alt="@isuru__eranda" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering .**
 

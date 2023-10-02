@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+<!-------- Connect with me icons --------->
 
 <a href="https://linkedin.com/in/isuru-eranda-ba24b6270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isurueranda/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100076686294109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100076686294109" height="30" width="40" /></a>

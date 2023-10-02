@@ -4,11 +4,13 @@
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-right: 30px;">
 &nbsp;
 
+<p style="margin-top: 20px;">
 - 🌱 I’m currently learning **Software Engineering .**
 
 - 💬 Ask me about **Anything You want to know .**
 
 - 📫 How to reach me **isurueranda01@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

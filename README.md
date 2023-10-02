@@ -2,7 +2,7 @@
 <h3 align="center">A Undergraduate in NSBM Green University. 🧑‍💻</h3>
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+&nbsp;
 
 - 🌱 I’m currently learning **Software Engineering .**
 

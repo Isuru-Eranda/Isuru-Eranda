@@ -47,5 +47,5 @@
 <hr/>
 <!-------- Status -------->
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Isuru-Eranda)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Isuru-Eranda/Isuru-Eranda)

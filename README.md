@@ -48,4 +48,4 @@
 <!-------- Status -------->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Isuru-Eranda/Isuru-Eranda)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=Isuru-Eranda&label=PROFILE+VIEWS)

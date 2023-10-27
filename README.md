@@ -27,13 +27,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-<a href="https://www.arduino.cc/" target="blank"><img align="center"
-        src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40" width="40" /></a>
-<a href="https://www.cprogramming.com/" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg""
-        alt="c" height="40" width="40"/></a>
-<a href="https://www.w3.org/html/" target="blank"><img align="center"
-        src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" height="40" width="40" /></a>
+<a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40" width="40" /></a>      
+<a href="https://www.cprogramming.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" width="40"/></a>      
+<a href="https://www.w3.org/html/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" height="40" width="40" /></a>
+        
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" height="40" width="40" /></a>
 <a href="https://www.linux.org/" target="blank"><img align="center"

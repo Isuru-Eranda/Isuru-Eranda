@@ -11,6 +11,7 @@
 - 📫 How to reach me **isurueranda01@gmail.com**
   
 <!-------- Connect with me icons --------->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
@@ -77,7 +78,7 @@
  
 <hr/>
 
-<!-------- Status -------->
+<!------ Status ------>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Isuru-Eranda)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Isuru-Eranda/Isuru-Eranda)

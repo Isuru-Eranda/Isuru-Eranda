@@ -70,7 +70,7 @@
 
  </div>
  
-<!-- Holopin Badges -->
+<!------ Holopin Badges ------->
 
 <h3 align="left">Holopin Badges:</h3>
 

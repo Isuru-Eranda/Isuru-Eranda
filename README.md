@@ -45,10 +45,10 @@
         width="40" /></a>
 <a href="https://www.adobe.com/products/premiere.html" target="blank"><img align="center"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="premiere" height="40"
-        width="40" /></a>
+        width="30" /></a>
 <a href="https://www.python.org" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"
-        width="40" /></a>
+        width="30" /></a>
 <a href="https://getbootstrap.com" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"
         width="30" /></a>

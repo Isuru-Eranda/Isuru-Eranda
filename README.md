@@ -29,14 +29,14 @@
 <p align="left">
   
  <a href="https://www.arduino.cc/" target="blank"><img align="center"
-        src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40" width="30" /></a>
+        src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="30" width="30" /></a>
 <a href="https://www.cprogramming.com/" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt=" c" height="40" width="40" /></a>
+        alt=" c" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center"
-        src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" height="40" width="40" /></a>
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center"
-        src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" height="40" width="40" /></a>
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" height="30" width="30" /></a>
 <a href="https://www.linux.org/" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         height="30" width="30" /></a>

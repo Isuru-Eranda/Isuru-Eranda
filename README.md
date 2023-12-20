@@ -39,12 +39,12 @@
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" height="40" width="40" /></a>
 <a href="https://www.linux.org/" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-        height="30" width="40" /></a>
+        height="30" width="30" /></a>
 <a href="https://www.photoshop.com/en" target="blank"><img align="center"
-        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" height="40"
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" height="30"
         width="30" /></a>
 <a href="https://www.adobe.com/products/premiere.html" target="blank"><img align="center"
-        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="premiere" height="40"
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="premiere" height="30"
         width="30" /></a>
 <a href="https://www.python.org" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"

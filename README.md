@@ -29,7 +29,7 @@
 <p align="left">
   
  <a href="https://www.arduino.cc/" target="blank"><img align="center"
-        src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40" width="40" /></a>
+        src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40" width="30" /></a>
 <a href="https://www.cprogramming.com/" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
         alt=" c" height="40" width="40" /></a>
@@ -51,7 +51,7 @@
         width="40" /></a>
 <a href="https://getbootstrap.com" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"
-        width="40" /></a>
+        width="30" /></a>
 </p> 
 
 <hr/>

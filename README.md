@@ -44,14 +44,14 @@
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" height="30"
         width="30" /></a>
 <a href="https://www.adobe.com/products/premiere.html" target="blank"><img align="center"
-        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="premiere" height="30"
-        width="30" /></a>
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="premiere" height="35"
+        width="35" /></a>
 <a href="https://www.python.org" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"
-        width="30" /></a>
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"
+        width="35" /></a>
 <a href="https://getbootstrap.com" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="30"
-        width="30" /></a>
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="35"
+        width="35" /></a>
 </p> 
 
 <hr/>

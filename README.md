@@ -41,8 +41,8 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         height="35" width="35" /></a>
 <a href="https://www.photoshop.com/en" target="blank"><img align="center"
-        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" height="30"
-        width="30" /></a>
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" height="35"
+        width="35" /></a>
 <a href="https://www.adobe.com/products/premiere.html" target="blank"><img align="center"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" alt="premiere" height="35"
         width="35" /></a>

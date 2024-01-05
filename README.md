@@ -74,8 +74,7 @@
 
 <h3 align="left">Holopin Badges:</h3>
 
-[![An image of @isurueranda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isurueranda)](https://holopin.io/@isurueranda)
-<hr/>
+
 
 <!------ Status ------>
 

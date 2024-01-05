@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Anything You want to know .**
 
-- 📫 How to reach me **isurueranda01@gmail.com**
+
   
 <!-------- Connect with me icons --------->
 

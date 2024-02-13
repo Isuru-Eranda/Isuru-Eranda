@@ -33,6 +33,7 @@
 <a href="https://www.cprogramming.com/" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
         alt=" c" height="35" width="35" /></a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" height="35" width="35" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center"

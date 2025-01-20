@@ -54,7 +54,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"
         width="35" /></a>
 <a href="https://getbootstrap.com" target="blank"><img align="center"
-        src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="35"
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="34"
         width="42" /></a>
 </p> 
 

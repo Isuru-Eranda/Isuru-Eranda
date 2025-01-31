@@ -55,7 +55,7 @@
         width="35" /></a>
 <a href="https://getbootstrap.com" target="blank"><img align="center"
         src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="33"
-        width="40" /></a>
+        width="38" /></a>
 </p> 
 
 <hr/>

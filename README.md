@@ -29,39 +29,38 @@
 </p>
 
 ---
+
 ### 🛠️ Languages, Libraries, Frameworks & Tech Stack
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,dart" />
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,dart" height="48" width="48" />
 </p>
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" height="48" width="48" />
 </p>
 
 #### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" height="48" width="48" />
 </p>
 
 #### ⚙️ Backend / Other Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" height="48" width="48" />
 </p>
 
 #### 🧰 Additional Tech Stack
 
-- 🧠 IDEs: Visual Studio Code, Visual Studio
-- 🐧 OS & Shell: Ubuntu, Windows, Bash
-- 🔧 Tools: Git, GitHub, Figma, Postman, Docker (learning)
-- 🎬 Media: Adobe Photoshop, Premiere Pro
+- 🧠 IDEs: Visual Studio Code, Visual Studio  
+- 🐧 OS & Shell: Ubuntu, Windows, Bash  
+- 🔧 Tools: Git, GitHub, Figma, Postman, Docker (learning)  
+- 🎬 Media: Adobe Photoshop, Premiere Pro  
 - 🔍 Others: Firebase, Arduino IDE, WSL
 
 ---
-
-
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -94,4 +93,3 @@
 ---
 
 _Last Updated: June 21, 2025_
-

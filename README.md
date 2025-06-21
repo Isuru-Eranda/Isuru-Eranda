@@ -29,24 +29,7 @@
 </p>
 
 ---
-
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="35" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="35" /></a>
-  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="35" /></a>
-  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="35" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" /></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="35" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="35" /></a>
-  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" height="35" /></a>
-  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" height="35" /></a>
-</p>
-
----
-
-### 📚 Languages, Libraries & Frameworks
+### 🛠️ Languages, Libraries & Frameworks
 
 #### 💻 Programming Languages
 <p align="left">
@@ -67,6 +50,18 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" />
 </p>
+
+---
+
+### 💻 Tech Stack
+
+Here’s a quick overview of my daily tools and environments:
+
+- 🧠 IDEs: Visual Studio Code, Visual Studio
+- 🐧 OS & Shell: Ubuntu, Windows, Bash
+- 🔧 Tools: Git, GitHub, Figma, Postman, Docker (learning)
+- 🎬 Media: Adobe Photoshop, Premiere Pro
+- 🔍 Others: Firebase, Arduino IDE, WSL
 
 ---
 

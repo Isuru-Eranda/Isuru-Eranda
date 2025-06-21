@@ -29,7 +29,7 @@
 </p>
 
 ---
-### 🛠️ Languages, Libraries & Frameworks
+### 🛠️ Languages, Libraries, Frameworks & Tech Stack
 
 #### 💻 Programming Languages
 <p align="left">
@@ -51,11 +51,7 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" />
 </p>
 
----
-
-### 💻 Tech Stack
-
-Here’s a quick overview of my daily tools and environments:
+#### 🧰 Additional Tech Stack
 
 - 🧠 IDEs: Visual Studio Code, Visual Studio
 - 🐧 OS & Shell: Ubuntu, Windows, Bash
@@ -64,6 +60,8 @@ Here’s a quick overview of my daily tools and environments:
 - 🔍 Others: Firebase, Arduino IDE, WSL
 
 ---
+
+
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -95,4 +93,4 @@ Here’s a quick overview of my daily tools and environments:
 
 ---
 
-_Last Updated: {{current date}}_
+_Last Updated: {{2025-06-21}}_

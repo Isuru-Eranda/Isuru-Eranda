@@ -34,7 +34,7 @@
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,dart" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,dart" height="48px" width="48px" />
 </p>
 
 #### 🌐 Frontend

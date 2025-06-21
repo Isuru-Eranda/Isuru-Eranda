@@ -39,17 +39,17 @@
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
 </p>
 
 #### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart"/>
 </p>
 
 #### ⚙️ Backend / Other Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" />
 </p>
 
 #### 🧰 Additional Tech Stack

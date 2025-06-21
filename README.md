@@ -46,6 +46,30 @@
 
 ---
 
+### 📚 Languages, Libraries & Frameworks
+
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,dart" />
+</p>
+
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+</p>
+
+#### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+#### ⚙️ Backend / Other Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isuru-Eranda&theme=react&hide_border=true" />
@@ -66,7 +90,7 @@
 
 ### 🌐 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isuru-Eranda&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isuru-Eranda&theme=react-dark" />
 </p>
 
 ---

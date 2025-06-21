@@ -93,4 +93,5 @@
 
 ---
 
-_Last Updated: {{2025-06-21}}_
+_Last Updated: June 21, 2025_
+

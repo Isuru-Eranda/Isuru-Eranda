@@ -10,8 +10,11 @@
 
 ### 🌱 Currently Learning
 📘 Software Engineering Principles
+
 🌐 Building Web & Mobile Applications
+
 🎨 UI/UX Design Fundamentals
+
 ⚛️ Frontend Development with React
 
 ### 📬 Contact Me

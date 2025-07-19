@@ -9,9 +9,10 @@
 <img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w">
 
 ### 🌱 Currently Learning
-- Undergraduate Software Engineering
-- Building web and mobile apps
-- Open source collaboration
+📘 Software Engineering Principles
+🌐 Building Web & Mobile Applications
+🎨 UI/UX Design Fundamentals
+⚛️ Frontend Development with React
 
 ### 📬 Contact Me
 - **Email**: isurueranda01@gmail.com

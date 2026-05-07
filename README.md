@@ -26,7 +26,7 @@
 
 ### 🤝 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/isuru-eranda-ba24b6270/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://fb.com/profile.php?id=100076686294109"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
   <a href="https://instagram.com/isuru__eranda/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
@@ -107,4 +107,4 @@
 
 ---
 
-_Last Updated: July 19, 2025_
+_Last Updated: May 8, 2026_
